@@ -32,9 +32,12 @@ Talk to me about
 
 ### ⌛ Learning:
 
+<img src="https://skillicons.dev/icons?i=dart,flutter&theme=light"/>
+<!--
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="typescript.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="flutter.png" /></a>
+-->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
