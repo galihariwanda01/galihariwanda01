@@ -19,6 +19,7 @@ Talk to me about
 ### 🧰 Currently working with:
 
 <a href="https://www.php.net/" title="PHP"><img src="php.png" /></a>
+<a href="https://www.codeigniter.com/" title="Codeigniter"><img src="laravel.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="laravel.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="composer.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
@@ -31,11 +32,9 @@ Talk to me about
 
 ### ⌛ Learning:
 
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="typescript.png" /></a>
+<a href="https://dart.dev/" title="Dart"><img src="dartlang.png" /></a>
+<a href="https://flutter.dev/" title="Flutter"><img src="flutter.png" /></a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
