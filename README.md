@@ -19,7 +19,7 @@ Talk to me about
 ### 🧰 Currently working with:
 
 <a href="https://www.php.net/" title="PHP"><img src="php.png" /></a>
-<a href="https://www.codeigniter.com/" title="Codeigniter"><img src="laravel.png" /></a>
+<a href="https://www.codeigniter.com/" title="Codeigniter"><img src="codeigniter.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="laravel.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="composer.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="python.png" /></a>
