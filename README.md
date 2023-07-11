@@ -1,6 +1,4 @@
-## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
-I'm Galih Ariwanda, an Fullstack Software Developer :iphone: from Indonesian who is passionate about technologies and innovation
+## Hi there, I'm Galih Ariwanda <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🌱 I’m working as **Fullstack Software Developer**
 - 👯 Interested in everything **Data Analytics, Machine Learning, and Application Infrastructure**
@@ -14,7 +12,7 @@ Talk to me about
 - Backend development using **PHP, Node.js**
 - Data Analytics using **Python**
 - Machine Learning using **Python**
-- Database Relational using **MySQL, PostgreSQL, MongoDB, Redis**
+- Database using **MySQL, PostgreSQL, MongoDB, Redis**
 
 ### 🧰 Currently working with:
 
