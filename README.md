@@ -16,7 +16,7 @@ Talk to me about
 
 ### 🧰 Currently working with:
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs,python,javascript,html,css,composer,git,github,mysql,vscode,phpstorm&theme=light"/>
 <!--
 <a href="https://www.php.net/" title="PHP"><img src="php.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="laravel.png" /></a>
