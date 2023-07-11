@@ -1,25 +1,21 @@
-### Hi there 👋
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I'm Galih Ariwanda,an Fullstack Software Developer :iphone: from Indonesian who is passionate about technologies and innovation
 
-- 🌱 I’m working as **Software Engineer**
+- 🌱 I’m working as **Fullstack Software Developer**
 - 👯 Interested in everything **Data Analytics, Machine Learning, and Application Infrastructure**
 - 🤔 Currently learning **NodeJS**
 - 💬 Ask me about **Android and Website**
 
-<!--
-**galihariwanda01/galihariwanda01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Technologies
+Talk to me about
+- Mobile application development using **React Native, Cordova**
+- Web development using **HTML, CSS, Javascript**
+- Backend development using **PHP, NodeJS**
+- Data Analytics using **Python**
+- Machine Learning using **Python**
+- Database Relational using **MySQL, PostgreSQL, MongoDB, Redis**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
