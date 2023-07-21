@@ -30,7 +30,7 @@ Talk to me about
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="phpstorm.png" /></a>
 -->
 
-### ⌛ Learning:
+### ⌛ Upcoming Learning:
 
 <img src="https://skillicons.dev/icons?i=dart,flutter&theme=light"/>
 <!--
